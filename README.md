@@ -1,4 +1,4 @@
-# AkkaUsage
+# AkkaLearning
 Learning to use akka
 
 The project contains example code for learning to use akka. 
